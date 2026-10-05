@@ -1,0 +1,8 @@
+{
+  "name": "CareFlow AI",
+  "description": "AI-powered hospital operations command center for real-time predictive capacity, bottleneck prevention, and dynamic staff allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
